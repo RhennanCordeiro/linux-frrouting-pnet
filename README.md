@@ -12,7 +12,7 @@
 
 #### Utilização:
 
-**Requer login como root !**
+**Requer login como root caso utilize a instalação automática**
 
 1º -> git clone https://github.com/Rhennan96/linux-frrouting-pnet.git
 
